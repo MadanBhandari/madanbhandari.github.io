@@ -179,6 +179,13 @@ ul.icons{
         }
       }
     }
+    &.linkedin{
+      &:hover{
+        a{
+          color: #0077B5;
+        }
+      }
+    }
     a{
       display: -moz-flex;
       display: -webkit-flex;
